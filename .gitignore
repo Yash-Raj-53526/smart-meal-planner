@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editors
+.idea/
+.vscode/
+
+# Chart generated in the project root by Reports option 4
+/reports_chart.png
+
+# OS files
+.DS_Store
+Thumbs.db
